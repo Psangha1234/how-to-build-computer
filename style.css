@@ -1,3 +1,11 @@
+ 
+ p2{
+    font-size: 25px; 
+ }
+ 
+ p{
+  font-size: 20px;
+ }
 .container {
     display: grid;
     grid-template-columns: 3fr 1fr;
@@ -25,7 +33,7 @@
 .footer {
     grid-column: 1/2;
     grid-row: 3/4;
-    background-color: crimson;
+    background-color: rgb(88, 80, 160);
 }
 
 
